@@ -1,2 +1,2 @@
 # github_training
-Repo for materials of Github training at NOAA's NSAW meeting April 2020
+Repo for materials of NOAA git and Github training on a NOAA webinar April 2020
